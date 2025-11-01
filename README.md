@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi there, I'm Hiteshri!
+# 👋 Hi there, I'm Misari Vadalia !
 
 🌱 **Aspiring Developer | Tech Enthusiast | Problem Solver**  
 I’m passionate about coding, learning new technologies, and building projects that make a real impact.  
