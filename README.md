@@ -1,8 +1,7 @@
 <!-- Animated & Stylish GitHub Profile README for Misari Vadalia -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=👋+Hi+there!;I'm+Misari+Vadalia!;Aspiring+Developer+%7C+Tech+Enthusiast+%7C+Problem+Solver" alt="Typing Animation" />
-</h1>
+<h1>Hi There , i'm Misari Vadalia </h1>
+
 
 <p align="center">
   🌱 <b>Aspiring Developer</b> | 💻 <b>Tech Enthusiast</b> | 🧩 <b>Problem Solver</b>  
