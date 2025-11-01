@@ -1,6 +1,6 @@
 <!-- Animated & Stylish GitHub Profile README for Misari Vadalia -->
 <p align="center">
-<h1>Hi There , i'm Misari Vadalia </h1>
+<h1>        Hi There , I'm Misari Vadalia </h1>
 
 
 <p align="center">
