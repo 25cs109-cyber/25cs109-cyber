@@ -82,15 +82,15 @@ https://github.com/25cs109-cyber?tab=repositories
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=25cs109-cyber&show_icons=true&theme=radical" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=25cs109-cyber&show_icons=true&theme=radical&cache_seconds=1800" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=25cs109-cyber&theme=radical" height="160px"/>
+<img src="https://streak-stats.demolab.com?user=25cs109-cyber&theme=radical" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25cs109-cyber&layout=compact&theme=tokyonight" height="140px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25cs109-cyber&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
 
 </p>
 
@@ -123,6 +123,12 @@ https://github.com/25cs109-cyber?tab=repositories
 </p>
 
 ---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=25cs109-cyber&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+
+</p>
 
 <div align="center">
 
