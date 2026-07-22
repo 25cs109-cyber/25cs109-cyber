@@ -19,8 +19,9 @@
 ---
 
 # 💫 About Me
+
 🎯 Passionate about **coding**, **creating**, and **learning** every day!  
-🚀 Exploring **C Programming**, **C++**, **JavaScript**, and **Web Development** to improve my logical & creative skills.  
+🚀 Exploring **C Programming**, **C++**, **Java**, **HTML**, **CSS**, **JavaScript**, and **Web Development** to improve my logical & creative skills.  
 🧠 Always curious about how technology can make a difference.
 
 ---
@@ -35,7 +36,11 @@
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
@@ -62,6 +67,7 @@
 ---
 
 ## 📚 Concepts
+
 🧩 Algorithms • 🐞 Debugging • 💡 Logical Thinking
 
 ---
@@ -123,12 +129,6 @@ https://github.com/25cs109-cyber?tab=repositories
 </p>
 
 ---
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=25cs109-cyber&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
-
-</p>
 
 <div align="center">
 
