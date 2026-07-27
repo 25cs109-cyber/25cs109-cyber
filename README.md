@@ -50,6 +50,9 @@
 
 ## 🧰 Tools & Technologies
 
+
+## 🧰 Tools & Technologies
+
 <p align="left">
 
 <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -61,6 +64,8 @@
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Code::Blocks-3D6117?style=for-the-badge&logo=codeblocks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </p>
 
