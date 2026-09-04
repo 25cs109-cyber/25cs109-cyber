@@ -46,11 +46,6 @@
 
 </p>
 
----
-
-## 🧰 Tools & Technologies
-
-
 ## 🧰 Tools & Technologies
 
 <p align="left">
