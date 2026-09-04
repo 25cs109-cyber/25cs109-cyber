@@ -72,18 +72,6 @@
 
 ---
 
-# 🌟 Featured Projects
-
-| 🚀 Project | 📝 Description | ⚙️ Tech Stack |
-|-------------|----------------|---------------|
-| 🧮 **C Calculator** | Simple calculator to perform arithmetic operations | C |
-| 🌐 **Personal Portfolio** | My first personal portfolio website showcasing my skills and contact info | HTML, CSS |
-
-🔗 Explore all my work here:  
-https://github.com/25cs109-cyber?tab=repositories
-
----
-
 # 📊 GitHub Stats & Activity
 
 <p align="center">
